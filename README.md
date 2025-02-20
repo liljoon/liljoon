@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 
 ### 2. <a href="https://github.com/aws-actions/configure-aws-credentials">configure-aws-credentials</a>
 - [#1191](https://github.com/aws-actions/configure-aws-credentials/pull/1191) : feat: Add ARN output and masking option in exportAccountId function
+
+---
+## I'm currently learning ...
+
+![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=Terraform&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue.svg?&style=for-the-badge&logo=Azure&logoColor=white)
