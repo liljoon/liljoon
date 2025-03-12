@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 - [#1191](https://github.com/aws-actions/configure-aws-credentials/pull/1191) : feat: Add ARN output and masking option in exportAccountId function
 
 ---
+- Woongjin, MS Azure Cloud Architect Intern (2025.01 - 2025.02)
+- Software Maestro 15th (2024.04 - 2024.11)
+- 42 Seoul (2022.7 - 2024.05)
+- Bachelor's Degree in Computer Engineering, Kyunghee University (2017.03 - 2024.02)
+
+---
 ## I'm currently learning ...
 
 ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=Terraform&logoColor=white)
