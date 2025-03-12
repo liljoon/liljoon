@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=Terraform&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue.svg?&style=for-the-badge&logo=Azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![English](https://img.shields.io/badge/English-red.svg?&style=for-the-badge&logo=English&logoColor=white)
