@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - [#1191](https://github.com/aws-actions/configure-aws-credentials/pull/1191) : feat: Add ARN output and masking option in exportAccountId function
 
 ---
+- CJ OliveNetworks, Software Engineer (2025.07 - )
 - Woongjin, MS Azure Cloud Architect Intern (2025.01 - 2025.02)
 - Software Maestro 15th (2024.04 - 2024.11)
 - 42 Seoul (2022.7 - 2024.05)
